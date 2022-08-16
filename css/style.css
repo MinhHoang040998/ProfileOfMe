@@ -1,0 +1,8 @@
+.bg-primary {
+    background-image: url("https://wallpaper.dog/large/20454636.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+.container-fluid {
+    padding-left: 40% !important;
+}
